@@ -1,0 +1,16 @@
+* {
+	padding: 0;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+body {
+	background: black;
+	color: #fff;
+}
+
+.box {
+	background: #222;
+}
+
