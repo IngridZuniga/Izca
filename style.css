@@ -15,39 +15,3 @@ body {
 .tweeter:before {
   content: s;
 }
-.tweet-form-column {
-  text-align: left;
-}
-.tweet-form {
-	background:#e81123 url(/assets/bg-tweet.gif) repeat-y;
-	padding: 19px 15px 15px;
-	margin:0 0 -9939px;
-	color:#ffffff;
-}
-.tweet-form .textarea {
-	background:#fff;
-	margin:0 0 4px;
-}
-.tweet-form label {
-	display:block;
-	margin:0 0 26px;
-}
-.tweet-form .textarea textarea {
-	background:none;
-	border:0;
-	padding:5px 10px;
-	margin:0;
-	height:35px;
-	min-height:55px;
-	max-height:55px;
-	width:100% !important;
-	overflow:auto;
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
-}
-.open.tweet {
-  text-align: left;
-}
-#main.collapsed .sections-holder .box {display:none;}
-#main.home .sections-holder .box {display:block;}
