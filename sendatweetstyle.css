@@ -1,20 +1,3 @@
-* {
-  padding: 0;
-}
-h1 {
-  color: #fff;
-}
-body {
-  background: #008000;
-  color: #fff;
-  text-align: center;
-}
-.box {
-  background: #222;
-}
-.tweeter:before {
-  content: s;
-}
 .tweet-form-column {
   text-align: left;
 }
